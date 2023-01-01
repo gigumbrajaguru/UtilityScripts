@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e14a5c17-bf48-4de9-ad23-2b19e23577fd" name="Changes" comment="Utility power-cut updater is completed">
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-    </list>
+    <list default="true" id="e14a5c17-bf48-4de9-ad23-2b19e23577fd" name="Changes" comment="Utility power-cut updater is completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/gigum/Projects/MultiServer",
+    "last_opened_file_path": "C:/Users/gigum/Projects/UtilityScripts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -248,6 +245,7 @@
       <workItem from="1670622073281" duration="3531000" />
       <workItem from="1670700547417" duration="44000" />
       <workItem from="1672523992196" duration="11939000" />
+      <workItem from="1672539830814" duration="350000" />
     </task>
     <task id="LOCAL-00001" summary="Utility one completed">
       <created>1670381778439</created>
